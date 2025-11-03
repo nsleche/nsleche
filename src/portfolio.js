@@ -1,21 +1,21 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://nsleche.github.io/cleanfolio',
+  title: 'AA.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Antonio Alves',
+  role: 'iOS Engineer',
   picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'I build iOS apps for users and the teams behind them. Since 2016, I\'ve focused on creating great product experiences while ensuring a smooth development process through automation and thoughtful tooling',
+  resume: 'https://www.linkedin.com/in/antoniodev',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/antoniodev',
+    github: 'https://github.com/nsleche',
   },
 }
 
@@ -69,7 +69,7 @@ const projects = [
   {
     name: 'LookFwd',
     description: 'Vacation Countdown App! Post trip countdowns with friends on LookFwd!',
-    stack: [],
+    stack: ['CoreLocation', 'MapKit', 'WebSockets'],
     image: 'lookfwd_screenshot.png',
   },
   {
