@@ -53,23 +53,18 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
+  'Swift',
+  'Objective-C',
+  'UIKit',
+  'SwiftUI',
   'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'antonioalvesdev@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
