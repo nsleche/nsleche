@@ -8,7 +8,8 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Antonio Alves',
   role: 'iOS Engineer',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  // picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  picture: "",
 
   description:
     'I build iOS apps for users and the teams behind them. Since 2016, I\'ve focused on creating great product experiences while ensuring a smooth development process through automation and thoughtful tooling',
