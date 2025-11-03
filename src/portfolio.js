@@ -19,17 +19,26 @@ const about = {
   },
 }
 
+const apps = [
+  {
+    name: 'Newness',
+    description: 'Newness is a dedicated space for beauty experts to educate and engage with their supporters through live ticketed master classe events',
+    screenshot: 'newness_screenshot.png',
+    icon: 'newness_icon.png'
+  },
+]
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Newness',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-    image: 'cleanfolio.png',
+      'Newness is a dedicated space for beauty experts to educate and engage with their supporters through live ticketed master classe events',
+    stack: [],
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
+    image: 'newness_screenshot.png',
   },
   {
     name: 'Project 2',
