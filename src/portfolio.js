@@ -38,6 +38,7 @@ const projects = [
       'Iris is your beauty people, your honest takes, your way to stay ahead—wrapped in one app',
     stack: [],
     image: 'iris_screenshot.png',
+    dark_mode_image: 'iris_screenshot_dark.png'
   },
   {
     name: 'Newness',
