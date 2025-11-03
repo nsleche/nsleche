@@ -54,13 +54,13 @@ const projects = [
     stack: [],
     image: 'impulse_screenshot.png',
   },
-  {
-    name: 'Impulse 2',
-    description:
-      'Impulse is a survey app that allows users to earn rewards by answering simple product surveys or feedback questions',
-    stack: [],
-    image: 'impulse_screenshot2.png',
-  },
+  // {
+  //   name: 'Impulse 2',
+  //   description:
+  //     'Impulse is a survey app that allows users to earn rewards by answering simple product surveys or feedback questions',
+  //   stack: [],
+  //   image: 'impulse_screenshot2.png',
+  // },
   {
     name: 'Brainzones',
     description:
