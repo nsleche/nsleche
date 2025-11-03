@@ -32,22 +32,45 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Iris',
+    description:
+      'Iris is your beauty people, your honest takes, your way to stay ahead—wrapped in one app',
+    stack: [],
+    image: 'iris_screenshot.png',
+  },
+  {
     name: 'Newness',
     description:
       'Newness is a dedicated space for beauty experts to educate and engage with their supporters through live ticketed master classe events',
     stack: [],
-    // sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
     image: 'newness_screenshot.png',
   },
   {
-    name: 'Project 2',
+    name: 'Impulse',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-    image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
+      'Impulse is a survey app that allows users to earn rewards by answering simple product surveys or feedback questions',
+    stack: [],
+    image: 'impulse_screenshot.png',
+  },
+  {
+    name: 'Impulse 2',
+    description:
+      'Impulse is a survey app that allows users to earn rewards by answering simple product surveys or feedback questions',
+    stack: [],
+    image: 'impulse_screenshot2.png',
+  },
+  {
+    name: 'Brainzones',
+    description:
+      'BrainZones is an app for educators, filled with strategies grounded in neuroeducational research',
+    stack: [],
+    image: 'brainzones_screenshot.png',
+  },
+  {
+    name: 'LookFwd',
+    description: 'Vacation Countdown App! Post trip countdowns with friends on LookFwd!',
+    stack: [],
+    image: 'lookfwd_screenshot.png',
   },
   {
     name: 'Project 3',
