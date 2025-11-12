@@ -13,7 +13,7 @@ const about = {
 
   description:
     'I build iOS apps for users and the teams behind them. Since 2016, I\'ve focused on creating great product experiences while ensuring a smooth development process through automation and thoughtful tooling',
-  resume: 'https://www.linkedin.com/in/antoniodev',
+  resume: `${process.env.PUBLIC_URL}/Resume.pdf`,
   social: {
     linkedin: 'https://www.linkedin.com/in/antoniodev',
     github: 'https://github.com/nsleche',
