@@ -5,11 +5,11 @@
 
 <span class="iconify" data-icon="charm:person"></span> [nsleche.com](https://nsleche.com/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/nsleche](https://github.com/nsleche)
-  : <span class="iconify" data-icon="tabler:phone"></span> (+1) (323) 423-2301
+  : <span class="iconify" data-icon="tabler:phone"></span> (+1) (xxx) xxx-xxxx
 
 <span class="iconify" data-icon="ic:outline-location-on"></span> San Francisco CA
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/antoniodev](https://www.linkedin.com/in/antoniodev)
-  : <span class="iconify" data-icon="tabler:mail"></span> [antonioalvesdev@gmail.com](mailto:antonioalvesdev@gmail.com)
+  : <span class="iconify" data-icon="tabler:mail"></span> [xxxxxxxxxx@gmail.com](mailto:xxxxxxxxx@gmail.com)
 
 ## Experience
 
